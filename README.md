@@ -1,7 +1,8 @@
 
 # Lilu Test
 
-
+User: deve@teste.com
+Password: 123456
 
 ## Run Locally
 
